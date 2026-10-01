@@ -1,6 +1,6 @@
-# 🤖 7 Days of Code · IA para Produtividade
+# 7 Days of Code · IA para Produtividade
 
-Soluções e gabaritos da trilha, uma branch por dia.
+Soluções e gabaritos da trilha.
 
 | Dia | Branch | Tema |
 |---|---|---|
@@ -11,8 +11,6 @@ Soluções e gabaritos da trilha, uma branch por dia.
 | 🧩 5 | [`solucao-dia-5`](../../tree/solucao-dia-5) | Modelos reutilizáveis |
 | 📊 6 | [`solucao-dia-6`](../../tree/solucao-dia-6) | Análise de planilhas |
 | 🤖 7 | [`solucao-dia-7`](../../tree/solucao-dia-7) | Assistente Pessoal de Produtividade |
-
-`main` só tem este README. Cada outra branch guarda a solução daquele dia.
 
 **Técnicas:** contexto, few-shot, chain of thought, delimitadores e restrições.
 **Ferramentas:** ChatGPT, Claude ou Gemini (a IA generativa de sua preferência).
